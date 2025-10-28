@@ -1,2 +1,2 @@
 # django-devops
-Author - Akash Patil
+Author - Akash S Patil
